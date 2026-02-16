@@ -102,6 +102,7 @@ header.hero {
 .hero__subtitle,
 .hero__details {
   color: #fff;
+  -webkit-text-fill-color: #fff;
   margin: 0;
   font-size: 1.2rem;
 }
